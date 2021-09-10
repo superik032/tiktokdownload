@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 headers = requests.utils.default_headers() #header
 headers.update({'User-Agent': 'Mozilla/5.0 (X22; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',})
 ##########################################################
-API_TOKEN = 'add token here' 
+API_TOKEN = '1995158634:AAEM_JeWq2Ap0_ERDKUhFSa6OpZDEy3ATpY' 
 ##########################################################
 # Configure logging
 logging.basicConfig(level=logging.INFO)
