@@ -1,1 +1,1 @@
-worker: python3 xbot.py
+web: python3 xbot.py
